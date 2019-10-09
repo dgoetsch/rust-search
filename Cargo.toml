@@ -1,0 +1,12 @@
+[package]
+name = "search"
+version = "0.1.0"
+authors = ["Devyn Goetsch <devynmichellegoetsch@gmail.com>"]
+
+[dependencies]
+clap = "2.32.0"
+threadpool = "1.7.1"
+memmap = "0.7.0"
+criterion = "0.2.5"
+log = "0.4.6"
+simplelog = "0.5.3"
